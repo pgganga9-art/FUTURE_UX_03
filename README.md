@@ -3,17 +3,20 @@
 Task 3 – CRM Dashboard UI Design
 
 Objective
+
 Design a scalable CRM dashboard for agencies to manage the complete workflow from lead generation to client follow-up.
 The goal is to create a clean and efficient B2B SaaS dashboard that improves workflow management, client tracking, and team collaboration.
 
 Design File Link:
-[Paste your Figma link here]
+https://potato-opt-43371296.figma.site
 
 Project Overview
+
 This CRM dashboard is designed based on real agency workflows:
 Lead → Client → Follow-up
 The design focuses on making daily operations simple, organized, and scalable.
 The dashboard includes:
+
 .Lead tracking system
 .Client list management
 .Visual lead pipeline
