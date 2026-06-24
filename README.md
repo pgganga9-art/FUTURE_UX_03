@@ -17,23 +17,26 @@ Lead → Client → Follow-up
 The design focuses on making daily operations simple, organized, and scalable.
 The dashboard includes:
 
-.Lead tracking system
-.Client list management
-.Visual lead pipeline
-.Client profile view
-.Task and follow-up reminders
-.Analytics cards
-.Search and filters
-.Activity timeline
+Lead tracking system
+,Client list management
+,Visual lead pipeline
+,Client profile view
+,Task and follow-up reminders
+,Analytics cards
+,Search and filters
+,Activity timeline
 
-User Roles
+User Roles:
 Owner
-.Full dashboard access
-.Manage team members
-.View analytics and reports
-.Assign leads and tasks
+
+ Full dashboard access
+,Manage team members
+,View analytics and reports
+,Assign leads and tasks
+
 Team Member
-.Access assigned leads
-.Update lead stages
-.Manage follow-ups
-.Add client no
+
+ Access assigned leads
+,Update lead stages
+,Manage follow-ups
+,Add client no
